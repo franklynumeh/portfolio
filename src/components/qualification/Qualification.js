@@ -183,7 +183,7 @@ const Qualification = () => {
                 <h3 className="qualification__title">
                   DevOps Cloud Architect {" "}
                 </h3>
-                <span className="qualification__subtitle">Payday</span>
+                <span className="qualification__subtitle">Southern Arkansas University</span>
                 <div className="qualification__calender">
                   <i className="uil uil-calender-alt"></i>
                   Mar. 2018 - June 2019
@@ -209,7 +209,7 @@ const Qualification = () => {
             {/* </div> */}
             {/* </div> */}
 
-            <div className="qualification__data">
+            {/* <div className="qualification__data">
               <div>
                 <h3 className="qualification__title">
                   Mechanical Engineering, (A.S.)
@@ -226,7 +226,7 @@ const Qualification = () => {
                 <span className="qualification__rounder"></span>
                 <span className="qualification__line"></span>
               </div>
-            </div>
+            </div> */}
           </div>
         </div>
       </div>
