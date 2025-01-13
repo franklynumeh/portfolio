@@ -26,7 +26,7 @@ function App() {
         {/* <CountdownTimer /> */}
         <Skills />
         <Certifications />
-        <About />
+        {/* <About /> */}
         <Testimonial />
         <Qualification />
         <Contact />

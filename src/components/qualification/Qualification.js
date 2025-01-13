@@ -47,7 +47,7 @@ const Qualification = () => {
               </div>
               <div>
                 <h3 className="qualification__title">
-                  Cloud Support Engineer - Devops{" "}
+                  Cloud Support Engineer{" "}
                 </h3>
                 <span className="qualification__subtitle">Viasat</span>
                 <div className="qualification__calender">
