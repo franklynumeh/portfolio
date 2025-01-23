@@ -72,7 +72,7 @@ const Qualification = () => {
                 <span className="qualification__subtitle">Payday</span>
                 <div className="qualification__calender">
                   <i className="uil uil-calender-alt"></i>
-                  July 2020 - Jan. 2024
+                  Feb 2023 - Jan. 2024
                 </div>
                 <div className="qual_mb"></div>
               </div>
@@ -173,7 +173,7 @@ const Qualification = () => {
           <div className="qualification__content">
 
 
-          <div className="qualification__data">
+          {/* <div className="qualification__data">
               <div></div>
               <div>
                 <span className="qualification__rounder"></span>
@@ -190,7 +190,7 @@ const Qualification = () => {
                 </div>
                 <div className="qual_mb"></div>
               </div>
-            </div>
+            </div> */}
             {/* <div className="qualification__data">
               <div>
                 <h3 className="qualification__title">Web Development</h3>
