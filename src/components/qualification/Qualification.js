@@ -19,6 +19,25 @@ const Qualification = () => {
           </div>
         </div>
 
+        <div className="qualification__data">
+              <div></div>
+              <div>
+                <span className="qualification__rounder"></span>
+                <span className="qualification__line"></span>
+              </div>
+              <div>
+                <h3 className="qualification__title">
+                  {" "}
+                </h3>
+                <span className="qualification__subtitle">  </span>
+                <div className="qualification__calender">
+                  <i className="uil uil-calender-alt"></i>
+                  Feb. 2024 - Present
+                </div>
+                <div className="qual_mb"></div>
+              </div>
+            </div>
+
         <div className="qualification__sections">
           <div className="qualification__content">
             <div className="qualification__data">
@@ -39,6 +58,7 @@ const Qualification = () => {
                 <span className="qualification__line"></span>
               </div>
             </div>
+       
             <div className="qualification__data">
               <div></div>
               <div>
@@ -52,13 +72,13 @@ const Qualification = () => {
                 <span className="qualification__subtitle">Viasat</span>
                 <div className="qualification__calender">
                   <i className="uil uil-calender-alt"></i>
-                  Feb. 2024 - Present
+                  Feb. 2024 - Feb. 2025
                 </div>
                 <div className="qual_mb"></div>
               </div>
             </div>
 
-            
+          
             <div className="qualification__data">
               <div></div>
               <div>
