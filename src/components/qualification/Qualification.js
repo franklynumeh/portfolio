@@ -78,7 +78,6 @@ const Qualification = () => {
               </div>
             </div>
 
-          
             <div className="qualification__data">
               <div></div>
               <div>
