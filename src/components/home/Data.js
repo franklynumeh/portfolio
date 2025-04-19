@@ -21,7 +21,7 @@ const Data = () => {
          systems administration, infrastructure management, automation, and monitoring. I thrive on solving complex challenges and 
         collaborating with teams to deliver high-quality, reliable software. */}
 
-DevOps Engineer with over 4 years of experience building scalable, reliable, and secure systems across public clouds and
+DevOps Engineer with over 5 years of experience building scalable, reliable, and secure systems across public clouds and
 on- premises environments. Highly specialized in Kubernetes and Multi-Cloud environments (AWS, GCP, and Azure),
 with expertise in Networking, Compute, Storage, Messaging and Streaming using Kafka, Security and Observability,
 Cloud Cost Optimization, Infrastructure as Code (IaC) with Terraform, and CI/CD Pipelines. I have strong hands-on
